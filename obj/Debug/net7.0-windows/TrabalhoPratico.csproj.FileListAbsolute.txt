@@ -1,0 +1,17 @@
+C:\Users\bideb\Downloads\TrabalhoPratico\bin\Debug\net7.0-windows\TrabalhoPratico.exe
+C:\Users\bideb\Downloads\TrabalhoPratico\bin\Debug\net7.0-windows\TrabalhoPratico.deps.json
+C:\Users\bideb\Downloads\TrabalhoPratico\bin\Debug\net7.0-windows\TrabalhoPratico.runtimeconfig.json
+C:\Users\bideb\Downloads\TrabalhoPratico\bin\Debug\net7.0-windows\TrabalhoPratico.dll
+C:\Users\bideb\Downloads\TrabalhoPratico\bin\Debug\net7.0-windows\TrabalhoPratico.pdb
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.csproj.AssemblyReference.cache
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.Form1.resources
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.csproj.GenerateResource.cache
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.AssemblyInfoInputs.cache
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.AssemblyInfo.cs
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.dll
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\refint\TrabalhoPratico.dll
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.pdb
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\TrabalhoPratico.genruntimeconfig.cache
+C:\Users\bideb\Downloads\TrabalhoPratico\obj\Debug\net7.0-windows\ref\TrabalhoPratico.dll
